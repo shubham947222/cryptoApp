@@ -8,7 +8,7 @@ import ReactHtmlParser from "react-html-parser";
 import { makeStyles, Typography, LinearProgress } from "@material-ui/core";
 
 // import CoinInfo from "../components/CoinInfo";
-import CoinInfo from "../components/CoinInfocopy";
+import CoinInfo from "../components/CoinInfo";
 import { numberWithCommas } from "../components/CoinsTable";
 
 console.log("inside coin Page");
