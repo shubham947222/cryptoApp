@@ -36,7 +36,7 @@ const Banner = () => {
               fontFamily: "Montserrat",
             }}
           >
-            Crytpo Hunter
+            Crypto Hunter
           </Typography>
           <Typography
             variant="subtitle2"
